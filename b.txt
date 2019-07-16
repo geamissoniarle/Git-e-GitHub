@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 msm cod
+=======
+msm codigo
+>>>>>>> teste
